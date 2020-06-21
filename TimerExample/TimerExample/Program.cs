@@ -10,7 +10,6 @@ namespace TimerExample
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("foobar");
         }
     }
 }
