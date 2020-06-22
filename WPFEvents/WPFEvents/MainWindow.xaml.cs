@@ -24,5 +24,10 @@ namespace WPFEvents
         {
             InitializeComponent();
         }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            myLabel.Content = "Hello World";
+        }
     }
 }

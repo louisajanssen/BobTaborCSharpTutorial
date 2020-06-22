@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button x:Name="button" Content="CLICK ME" HorizontalAlignment="Left" Margin="121,99,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="button" Content="CLICK ME" HorizontalAlignment="Left" Margin="121,99,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
         <Label x:Name="myLabel" Content="" HorizontalAlignment="Left" Margin="331,186,0,0" VerticalAlignment="Top"/>
 
     </Grid>
